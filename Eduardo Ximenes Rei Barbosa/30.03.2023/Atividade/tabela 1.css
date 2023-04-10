@@ -1,0 +1,14 @@
+table, td{
+    border: 1px solid black;
+    /*border-collapse: collapse; /* juntador de bordas*/
+}
+table{
+    width: 300px;
+    height: 50px;
+}
+.l2{
+    background-color: #00ffff;
+}
+td{
+    border-radius: 10px;
+}
